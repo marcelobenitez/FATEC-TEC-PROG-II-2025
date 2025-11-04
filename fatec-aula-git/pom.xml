@@ -1,0 +1,12 @@
+project xmlns=httpmaven.apache.orgPOM4.0.0
+         xmlnsxsi=httpwww.w3.org2001XMLSchema-instance
+         xsischemaLocation=httpmaven.apache.orgPOM4.0.0 httpmaven.apache.orgxsdmaven-4.0.0.xsd
+    modelVersion4.0.0modelVersion
+    groupIdbr.com.fatecgroupId
+    artifactIdaula-gitartifactId
+    version1.0.0version
+    properties
+        maven.compiler.source11maven.compiler.source
+        maven.compiler.target11maven.compiler.target
+    properties
+project
